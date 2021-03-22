@@ -2,7 +2,7 @@
 Assignment-2: Computer Vision Spring-2021 
 
 
-**Title:  Fingerprint Spoof Detector Based on LBP and HOG **
+**Title:  Fingerprint Spoof Detector Based on LBP and HOG**
 
 **Abstract:** Fake fingers can be easily fabricated using commonly available materials, such as latex,
 silicone and gelatin, with the fingerprint ridges of an individual engraved on it. These fake fingers
